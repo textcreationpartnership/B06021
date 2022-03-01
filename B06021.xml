@@ -1,0 +1,132 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Unto his Grace his Majesties High Commissioner, and the honourable Estates of Parliament, the petition of the Earl of Southerland.</title>
+            <author>Sutherland, George Gordon, Earl of, 1633-1703.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06021</idno>
+            <idno type="STC">Wing S6205D</idno>
+            <idno type="STC">ESTC R184803</idno>
+            <idno type="EEBO-CITATION">52614985</idno>
+            <idno type="OCLC">ocm 52614985</idno>
+            <idno type="VID">176212</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06021)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176212)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2764:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Unto his Grace his Majesties High Commissioner, and the honourable Estates of Parliament, the petition of the Earl of Southerland.</title>
+                  <author>Sutherland, George Gordon, Earl of, 1633-1703.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sutherland, George Gordon, --  Earl of, 1633-1703 --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term>Guardian and ward --  Law and legislation --  Scotland --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:176212:1"/>
+            <head>
+               <hi>
+                  <g ref="char:V">Ʋ</g>nto his Grace his Majeſties High Commiſſioner, and the Honourable Estates of Parliament,</hi> The PETITION of <hi>The Earl of</hi> Southerland</head>
+            <opener>Humbly Sheweth,</opener>
+            <p>THat where I having in a Former Petition, Repreſented to your Grace, and the Ho<g ref="char:EOLhyphen"/>nourable Eſtates of Parliament the Circumſtances of my Grand children, the preſent Viſcount of <hi>Arbuthnet,</hi> and his Brothers and Siſters, upon the reading thereof <hi>Knox</hi> being out of Town) there was a long day allowed to him to ſee and anſwere: But he being now returned, it is hoped that your Grace and Lordſhips will ordain him to anſwer the ſaid Petition, and what farther is repreſented in this, againſt <hi>Friday</hi> nixt peremp<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orie: But becauſe in the former Petition, I do condiſcend upon a competent number of Friends on the Fa<g ref="char:EOLhyphen"/>thers ſide, and the like number upon the Mothers ſide, whom I crave to be appointed Ad<g ref="char:EOLhyphen"/>miniſtrators to my Grand Children; I ſhal endeavour to clear what I did deſign by the foreſaid Propoſal, and I am confident, upon due conſideration, it will be found both juſt and neceſſa<g ref="char:EOLhyphen"/>ry. And 1mo The ſaids Children are both Fatherleſs and Motherleſs, and deſtitute of all Tu<g ref="char:EOLhyphen"/>tors, for as I formerly repreſented, the Lords of Seſſion, have moſt juſtly reduced the Teſta<g ref="char:EOLhyphen"/>ment, and Nomination of Tutors therein contained, as being impoſed upon the late Viſcount, the ſame never having been read to him: And it was alſo evidently Inſtructed, that the Per<g ref="char:EOLhyphen"/>ſons who are nominat to be Tutors did malverſe, by intrometting ſummarly with the Writs, and as there are now no Tutors Teſtamentars, ſo <hi>Knox</hi> can never be ſerved Tutor of Law; Be<g ref="char:EOLhyphen"/>cauſe, beſides that without Reflection, it may be ſaid that he is not fit for managing Affairs of ſuch Weight and Importance as the preſent Viſcounts are: So there are likewiſe competent Objections againſt him: <hi>viz.</hi> That he being ſenſible of his own unſufficiency, did interdict him<g ref="char:EOLhyphen"/>ſelf, in ſo far as concerned the Adminiſtration of the Tutory to Sir <hi>Thomas Burnet</hi> of <hi>Lyes,</hi> and ſome others of the preſent Viſcounts Relations on the Father ſide, and this Objection being pro<g ref="char:EOLhyphen"/>poned, when he endeavoured to expede his Service before the Macers and Lords of Seſſion, the ſame was ſuſtained, and he was ordained to depone, if there is, or ever was any ſuch Agree<g ref="char:EOLhyphen"/>ment betwixt him and the ſaid Relations. And albeit he does depon that there is no ſuch A<g ref="char:EOLhyphen"/>greement, yet neither he, nor Sir <hi>Thomas Burnet</hi> can deny, but that there was ſuch an Agree<g ref="char:EOLhyphen"/>ment drawn up, albeit the ſame be not now extant, and that if the Service go on, he will be no more but a nominal Tutor, and the Adminiſtration will be in the hands of the other Re<g ref="char:EOLhyphen"/>lations: And this Objection can very ſoon be determined by your Grace and Lordſhips, and if I prevail, it will then follow of Courſe, that in Juſtice a competent number of Friends be ap<g ref="char:EOLhyphen"/>pointed as Tutors Dative, and that either by your Grace and Lordſhips Appointment, or upon your Recommendation, by the appointment of the Lords of the Exchequer. But 2do. If <hi>Knox</hi> and the Viſcounts Relations on the Fathers ſide do prevail, it will indanger both the Viſcounts Eſtate, and his Brothers and Siſters Education, for they will neceſſarily fall under the manage<g ref="char:EOLhyphen"/>ment of theſe Friends who have already malverſed, and whoſe Nomination and Right of Tuto<g ref="char:EOLhyphen"/>ry is reduced by the Lords of Seſſion. And it can never be expected, that they will give better Advice in the management of the preſent Viſcounts Affairs, than they gave in the late Viſcounts time: And what they did then adviſe, did almoſt tend to his ruine. For 1mo. They got the late Viſcount perſwaded to enter into an Agreement with <hi>Glenbervy</hi> Sir <hi>Thomas Burnets</hi> Un<g ref="char:EOLhyphen"/>cle, moſt diſadvantagious upon the Viſcounts part, and ſo unequal, that the ſame being quar<g ref="char:EOLhyphen"/>relled by me and ſome of my Friends, it was paſſed from, and no perſon had the confidence to mantain the juſtice of it. 2do. I finding that the ſaid Viſcount had been thus impoſed upon
+<pb n="2" facs="tcp:176212:2" rendition="simple:additions"/>I perſwaded him to farm his Eſtate to <hi>Knox</hi> and <hi>Findowrie,</hi> whereby he would have payed yearly to the late Viſcounteſs Dowager then alive, her Annuity, his whole Anualrents, and near ten Thouſand <hi>merks</hi> of Principal Sum: and beſides, he reſerved a competent Subſiſtence to him<g ref="char:EOLhyphen"/>ſelf and Family. But his Relations in my abſence quickly overturned this Settlement; and then they engaged him in a Contract with <hi>Alexander Innes,</hi> whereby he was conſtitute Factor, and Sir <hi>Thomas Burnet</hi> became bound as Cautioner for him, ſince which time there has been no part of the Principal Sums payed, albeit the ſaid Viſcounteſs her Annuity did fall, by reaſon of her death to the late Viſcount. And for preventing all Objections that may be made or inſinuate againſt my Daughter, that ſhe had ſome hand in the unfortunate Management of the late Viſ<g ref="char:EOLhyphen"/>counts Affairs, it ſhal be made appear that ſhe reſtricted herſelf for theſe many years paſt to 800 <hi>works</hi> yearly, with which ſmal Sum, and what money and others ſhe got from her Mother and me, ſhe mantained herſelf and her whole Children in Clothes, &amp; payed her own, &amp; their Servants Fies. So that the miſmanagement can only be aſcribed to the ſaid Viſcounts Relations, who both impo<g ref="char:EOLhyphen"/>ſed upon him in making the Agreement with <hi>Alexander Innes,</hi> and in ſtating of the Accompts with him. 3tio. Since the Viſcounts death, and the time that he was on Death bed, its well known how anxious they have been to inhaunce the management of the preſent Viſcounts Affairs, by impoſing on him when in a Raging Fever, a Teſtament which they induced him to Sub<g ref="char:EOLhyphen"/>ſcribe as ſaid is, by Intrometting with his Writs <hi>breve manu;</hi> and after they were turned out by the Decreet of the Lords, and Mr. <hi>Mungo Carnegy</hi> was appointed Factor by the Lords of Privy Council, who had ſecured a part of the Viſcounts Victual in a Lock-faſt houſe, they or ſome perſons by their Order, did enter into the ſaid houſe, and took out the Victual and diſ<g ref="char:EOLhyphen"/>poſed of it, and as is informed, at a Price far below what the Factor had ſold it for. And all this being premiſed, it is left to your Grace and Lordſhips, to Determine if it be not more conſonant to Juſtice, that the Eſtate ſhould be managed by an equal number of Friends, of both Father ſide and Mother-ſide, and that their Intereſt ſhould be confirmed by appointing them Tutors Dative in manner foreſaid, than that perſons that have ſo miſ-managed formerly, ſhould ſtill be allowed to continue their managemement, and to exclude all my Daughters Relations from the ſame. And now in the Intervall and Vacation of the Seſſion, there can be no Re<g ref="char:EOLhyphen"/>meid but by the Sentence of this Honourable Court: and the Viſcount and his Brothers and Siſters, their Caſe can admit of no delay, for year and day is now near run, ſince the time of their Fathers deceaſe; and thereafter the Viſcount will be Harraſſed with multitudes of Proceſs<g ref="char:EOLhyphen"/>es at the Inſtance of his Fathers Creditors, when he will have none to look after him, or defend him. And laſtly as to to the younger Children, and who are deſtitute of Proviſions, being ſix in number, one Son and five Daughters: I humbly conceive they can be Educat no where ſo well, as in my Family, or in ſuch other places as I ſhall appoint them, my Wife and I being their only Parents now alive. And it is Remitted to your Grace and Lordſhips, to modifie and appoint what Sum you think fit for their Aliment. As alſo I conceive, that your Grace and Lordſhips will think it juſt, that I have the Cuſtody of the Viſcount, for none will more tenderly care for him and his Brother and Siſters, not only upon the account of my Relation to them, but alſo in reſpect I have Subſtitute them in the Tailzie of my Eſtate, failzieing the Heirs of my Son <hi>Strathnaver.</hi>
+            </p>
+            <p>It is therefore humbly Craved, that your Grace and Lordſhips will conſider the Premiſſes, and in reſpect thereof, find that <hi>Knox</hi> cannot be ſerved Tutor of Law for the Reaſons above mentioned. And that therefore You may appoint the perſons contained in my for<g ref="char:EOLhyphen"/>mer Petition, to be Adminiſtrators, and Recommend them to the Lords of Exchequer for a Gift of Tutory: And alſo to give to me the Cuſtody of the Children, and to appoint ſuch Aliments to them, as your Grade and Lordſhips ſhall think fit, they being deſtitute of Proviſipns.</p>
+            <closer>
+               <signed>And Your Grace and Lordſhips Petitioner ſhall ever pray.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
